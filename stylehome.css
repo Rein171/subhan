@@ -164,7 +164,7 @@ footer p {
                     .........
                 }
 
-@media (min-width: 1040px, 992px, 880px, 768px, 600px, 480px, 360px, 320px, 270px, 240px) {
+@media (min-width: 270px) {
     .container {
         grid-template-areas: "sidebar content" "sidebar footer";
         grid-template-rows: 1fr auto;
